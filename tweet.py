@@ -4,10 +4,10 @@ from random import randint
 import re
 
 #credentials
-consumer_key= '2DWLB3trKsI6qBim7T4VqiWSW'
-consumer_secret_key= 'Inf57UGkr2vH7AXkKNt6YMQoj38EM8OkHtW8vfM2QOdzhBfM4E'
-access_token='2796040535-fG6O6sxadv7OLaWUosrH5lw8Mom8fgXGp5YNIm7'
-access_token_secret='X4BwxMky654nI1pE3CjFcXbDxB0QPtSr8mO5S6Py0L6bM'
+consumer_key= ''
+consumer_secret_key= ''
+access_token=''
+access_token_secret=''
 
 auth= tweepy.OAuthHandler(consumer_key, consumer_secret_key)
 
