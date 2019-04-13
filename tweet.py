@@ -20,7 +20,7 @@ print(user.name)
 
 
 
-search= '#IIITKalyaniOnStrike'
+search= ''
 
 no_of_tweets=30
 count=0
